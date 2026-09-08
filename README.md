@@ -1,4 +1,4 @@
-# Calculater.py
+# Calculator.py
 Simpal calculatore mode with Python.
 
 ## Features
